@@ -1,4 +1,6 @@
 [submodule "llvm"]
 	path = llvm
 	url = git@github.com:ecoball/llvm.git
-
+[submodule "binaryen"]
+	path = binaryen
+	url = git@github.com:ecoball/binaryen.git
